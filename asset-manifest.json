@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practice-friday-redux/static/css/main.9385f84f.chunk.css",
+    "main.js": "/practice-friday-redux/static/js/main.f54db4cb.chunk.js",
+    "main.js.map": "/practice-friday-redux/static/js/main.f54db4cb.chunk.js.map",
+    "runtime-main.js": "/practice-friday-redux/static/js/runtime-main.2ce105e5.js",
+    "runtime-main.js.map": "/practice-friday-redux/static/js/runtime-main.2ce105e5.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/practice-friday-redux/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.98e6e23c.chunk.js": "/practice-friday-redux/static/js/2.98e6e23c.chunk.js",
+    "static/js/2.98e6e23c.chunk.js.map": "/practice-friday-redux/static/js/2.98e6e23c.chunk.js.map",
+    "index.html": "/practice-friday-redux/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/practice-friday-redux/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.9385f84f.chunk.css.map": "/practice-friday-redux/static/css/main.9385f84f.chunk.css.map",
+    "static/js/2.98e6e23c.chunk.js.LICENSE.txt": "/practice-friday-redux/static/js/2.98e6e23c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce105e5.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.98e6e23c.chunk.js",
+    "static/css/main.9385f84f.chunk.css",
+    "static/js/main.f54db4cb.chunk.js"
+  ]
+}
